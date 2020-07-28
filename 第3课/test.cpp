@@ -40,7 +40,7 @@ int main()
     printf("func:%d\n", func(2,2+2));
     printf("linux84 666\n");
 
-    printf("0727\n");
+    printf("0728\n");
     return 0;
 
 }
